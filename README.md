@@ -1,6 +1,6 @@
 # Little Lemon 🍋
 
-**Little Lemon** is a RESTful API designed for a restaurant, offering a range of functionalities for both admins and customers.
+**Little Lemon** is a RESTful API designed for a restaurant, offering a range of functionalities for both admins and customers. This project was developed with the help of coursework from Coursera's Meta Backend Developer API course.
 
 ## Features
 
